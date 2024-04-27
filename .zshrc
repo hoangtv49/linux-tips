@@ -105,7 +105,7 @@ alias sdev="npm run start:dev"
 alias dev="npm run dev"
 alias debug="npm run start:debug"
 alias dud="docker compose up -d"
-aslias du="docker compose up"
+alias du="docker compose up"
 
 bindkey '^ ' autosuggest-accept
 
